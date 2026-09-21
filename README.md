@@ -9,7 +9,7 @@ Esto es la prueba1
 ## Prueba3
 
 
-| Tarea1 | Tarea2 | Tarea3 |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Nombre | Edad | País |
+| :--- | :---: | --: |
+| Ana | 25 | España |
+| Juan | 30 | México |
