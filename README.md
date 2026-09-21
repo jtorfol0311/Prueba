@@ -8,7 +8,7 @@ Esto es la prueba1
 * Tarea3
 ## Prueba3
 ```mermaid
-graph TD;
-    A[Inicio] --> B[Proceso];
-    B --> C[Fin];
+graph LR
+    A[Paso 1] --> B[Paso 2]
+    B --> C[Paso 3]
 ```
