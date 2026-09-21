@@ -7,6 +7,3 @@ Esto es la prueba1
 * Tarea2
 * Tarea3
 ## Prueba3
-flowchart LR
-    A[Paso 1] --> B[Paso 2]
-    B --> C[Paso 3]
