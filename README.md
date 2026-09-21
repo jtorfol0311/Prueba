@@ -4,5 +4,5 @@ Este es el repositorio de prueba
 Esto es la prueba1
 ## Prueba2
 +Tarea1
-*Tarea2
--Tarea3
++Tarea2
++Tarea3
