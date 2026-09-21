@@ -7,3 +7,9 @@ Esto es la prueba1
 * Tarea2
 * Tarea3
 ## Prueba3
+
+
+| Tarea1 | Tarea2 | Tarea3 |
+|  |  |  |
+|  |  |  |
+|  |  |  |
