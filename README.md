@@ -7,8 +7,6 @@ Esto es la prueba1
 * Tarea2
 * Tarea3
 ## Prueba3
-```mermaid
 flowchart LR
-    A --> B
-    B --> C
-```
+    A[Paso 1] --> B[Paso 2]
+    B --> C[Paso 3]
